@@ -11,6 +11,6 @@
     <title>Hospital Managment system</title>
 </head>
 <body>
-Hospital Managment system
+Welcome To Hospital Managment system
 </body>
 </html>
